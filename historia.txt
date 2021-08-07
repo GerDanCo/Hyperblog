@@ -7,3 +7,5 @@ Gerardo nacio en México
 Hoy hablaremos de su historia
 
 Toma cursos de ingles y programacion
+Esto es un cambio que hice con $ vim historia.txt
+Gerardo del futuro tiene 31 años y ya ha terminado varios cursos en programación.
