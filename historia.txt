@@ -11,4 +11,6 @@ Esto es un cambio que hice con $ vim historia.txt
 
 Master 1
 
+Master 2
+
 Gerardo del futuro tiene 31 años y ya ha terminado varios cursos en programación.
