@@ -9,6 +9,8 @@ Hoy hablaremos de su historia
 Toma cursos de ingles y programacion
 Esto es un cambio que hice con $ vim historia.txt
 
+Experimento 1
+
 Master 1
 
 Master 2
